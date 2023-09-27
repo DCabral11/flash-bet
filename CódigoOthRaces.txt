@@ -1,0 +1,191 @@
+/*$circuit_arr= $arr['MRData']['RaceTable']['Races'][2]['Circuit']['Location']['country'];
+print $circuit_arr."<br>";;
+
+//foreach($results_arr3 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][3]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr4 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][4]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr5 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][5]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr6 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][6]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr7 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][7]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr8 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][8]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr9 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][9]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr10 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][10]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr11 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][11]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr12 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][12]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr13 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][13]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr14 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][14]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr15 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][15]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr16 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][16]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr17 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][17]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr18 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][18]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr19 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][19]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr20 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//$circuit_arr= $arr['MRData']['RaceTable']['Races'][20]['Circuit']['Location']['country'];
+//print $circuit_arr."<br>";;
+//
+//foreach($results_arr21 as $r) {
+//    $position ="position: ". $r['position']. "; " ."points: ". $r['points'];
+//    $name = "Driver :".$r['Driver']['givenName']. " " . $r['Driver']['familyName']."; ";
+//    $number= "number: ".$r['number'];
+//    print $position . "; " . $name .$number."<br>";
+//}
+//
+//
